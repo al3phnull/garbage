@@ -6,16 +6,16 @@ animal=$RANDOM
 let "animal %= $ARANGE"
 case $animal in
     0)
-        cow="small"       # Little cow
+        cow="small" 
         ;;
     1)
-        cow="sheep"       # Baa
+        cow="sheep" 
         ;;
     2)
         cow="moose" 
         ;;
     3)
-        cow="dragon"      # FUS-RO-DAH
+        cow="dragon"
         ;;
     4)
         cow="koala"
@@ -24,7 +24,7 @@ case $animal in
         cow="dragon-and-cow"  
         ;;
     6)
-        cow="moofasa"       # nevar forget
+        cow="moofasa"
         ;;
     7)
         cow="stimpy"
@@ -48,7 +48,7 @@ case $mood in
         feel="-p" 
         ;;
     4)
-        feel="-s"       # 4/20 blaze it faggot
+        feel="-s"  
         ;;
     5)
         feel="-t"
