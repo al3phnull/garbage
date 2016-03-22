@@ -1,4 +1,4 @@
-practice
+garbage
 =============
 
-These is just some code I'm using for practice.
+Garbage code for garbage purposes. Under no circumstances should you fork this repo, otherwise you'll be an even more programmer than me.
